@@ -4,9 +4,14 @@ document.addEventListener('DOMContentLoaded', function () {
     const colorPicker = document.getElementById('color-picker');
     const redSlider = document.getElementById('red-slider');
     const greenSlider = document.getElementById('green-slider');
+
+
+
     const blueSlider = document.getElementById('blue-slider');
     const redInput = document.getElementById('red');
     const greenInput = document.getElementById('green');
+
+    
     const blueInput = document.getElementById('blue');
     const colorBox = document.getElementById('color-box');
     const hexCode = document.getElementById('hex-code');
